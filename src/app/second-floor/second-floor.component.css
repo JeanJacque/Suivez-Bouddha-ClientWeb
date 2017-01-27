@@ -19,20 +19,6 @@
 	cursor: auto;
 }
 
-/*rect.enabled {
-	opacity: 1;
-}
-
-rect.enabled:hover {
-	fill: #446f44;
-	cursor: pointer;
-}
-
-path.enabled:hover {
-	fill: #446f44;
-	cursor: pointer;
-}*/
-
 .svg-container { 
 	display: inline-block;
 	position: relative;
